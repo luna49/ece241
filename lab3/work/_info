@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/lunas/OneDrive/Documents/ece241/lab2
+vfullAdder
+Z0 !s110 1696361843
+!i10b 1
+!s100 LafcY0j7aAmfR:Kb8@ob]2
+I4O>gFfUi_9PkFgE:Y6ECC3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/lunas/OneDrive/Documents/ece241/lab3
+Z3 w1696346204
+Z4 8part1.v
+Z5 Fpart1.v
+L0 12
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1696361843.000000
+Z8 !s107 part1.v|
+Z9 !s90 -reportprogress|300|part1.v|
+!i113 1
+Z10 tCvgOpt 0
+nfull@adder
+vpart1
+R0
+!i10b 1
+!s100 Q8hA3EK=_QP32jUGTgCo;1
+IK^=mOQHORfM1E9]jadNLX1
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
